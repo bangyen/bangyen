@@ -2,7 +2,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bangyen&rank_icon=github&show_icons=true" />
 </a>
 <a href="https://github.com/bangyen">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bangyen&layout=compact&hide=html&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bangyen&layout=compact&hide=html" />
 </a>
 
 <!--
