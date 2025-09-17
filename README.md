@@ -1,21 +1,19 @@
+### Hey, I’m Bangyen
+I build systems that blend AI, distributed computing, and optimization — currently focusing on agent-based simulations and ML efficiency.
+
+#### Featured Projects
+- [**ZSharp**](https://github.com/bangyen/zsharp): Sharpness-Aware Minimization in PyTorch, +5.2% accuracy over SGD and 4.4× faster training.
+- [**Oligopoly**](https://github.com/bangyen/oligopoly): Agent-based economic modeling with collusion detection and policy shock simulation.
+
+#### GitHub Stats
 <a href="https://github.com/bangyen">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bangyen&hide_rank=true&show_icons=true&theme=dark&hide=contribs" />
+  <img height=180 src="https://github-readme-stats.vercel.app/api?username=bangyen&hide_rank=true&show_icons=true&theme=dark&hide=contribs" />
 </a>
 <a href="https://github.com/bangyen">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bangyen&layout=compact&hide=html&theme=dark" />
+  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=bangyen&layout=compact&hide=html&theme=dark" />
 </a>
 
-<!--
-**bangyen/bangyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Connect
+- [LinkedIn](https://www.linkedin.com/in/bangyenpham)
+- [Website](https://bangyen.github.io)
+- [Email](mailto:bangyenp@gmail.com)
