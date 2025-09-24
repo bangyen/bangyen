@@ -2,8 +2,8 @@
 I build systems that blend AI, distributed computing, and optimization.
 
 #### Featured Projects
-- **ZSharp**: Sharpness-Aware Minimization in PyTorch, +5.2% accuracy over SGD and 4.4× faster training.
-- **Oligopoly**: Agent-based economic modeling with collusion detection and policy shock simulation.
+- **ZSharp**: +5.26% accuracy and 4.4× faster training with Sharpness-Aware Minimization, Apple Silicon optimized.
+- **Oligopoly**: 98.5% collusion detection, 1e-6 precision, and 72.3% strategy adaptation in advanced economic simulations.
 
 #### Publications
 - **Generalized Collective Algorithms for the Exascale Era** — CLUSTER 2023
