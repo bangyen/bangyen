@@ -3,7 +3,7 @@ I build systems that blend AI, distributed computing, and optimization.
 
 #### Featured Projects
 - **ZSharp**: +5.26% accuracy and 4.4× faster training with Sharpness-Aware Minimization, Apple Silicon optimized.
-- **Oligopoly**: 98.5% collusion detection, 1e-6 precision, and 72.3% strategy adaptation in advanced economic simulations.
+- **Regulator**: detecting algorithmic collusion from prices alone — label-free screens calibrated on competition, with a labeled upper bound of 98% on tacit Q-learning cartels.
 
 #### Publications
 - **Generalized Collective Algorithms for the Exascale Era** — CLUSTER 2023
