@@ -2,7 +2,7 @@
 I build systems that blend AI, distributed computing, and optimization.
 
 #### Featured Projects
-- **ZSharp**: +5.26% accuracy and 4.4× faster training with Sharpness-Aware Minimization, Apple Silicon optimized.
+- **ZSharp**: Sharpness-Aware Minimization with Z-Score gradient filtering at the paper's $Q_p = 0.95$, up to 4.4× faster on Apple Silicon via MPS.
 - **Regulator**: detecting algorithmic collusion from prices alone — label-free screens calibrated on competition, with a labeled upper bound of 98% on tacit Q-learning cartels.
 
 #### Publications
