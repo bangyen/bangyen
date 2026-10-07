@@ -2,8 +2,9 @@
 I build systems that blend AI, distributed computing, and optimization.
 
 #### Featured Projects
-- **ZSharp**: Sharpness-Aware Minimization with Z-Score gradient filtering at the paper's $Q_p = 0.95$, up to 4.4× faster on Apple Silicon via MPS.
-- **Regulator**: detecting algorithmic collusion from prices alone — label-free screens calibrated on competition, with a labeled upper bound of 98% on tacit Q-learning cartels.
+- **[ZSharp](https://github.com/bangyen/zsharp)**: Sharpness-Aware Minimization with Z-Score gradient filtering at the paper's $Q_p = 0.95$, up to 4.4× faster on Apple Silicon via MPS.
+- **[Regulator](https://github.com/bangyen/regulator)**: detecting algorithmic collusion from prices alone — label-free screens calibrated on competition, with a labeled upper bound of 98% on tacit Q-learning cartels.
+- **[LeanFunge](https://github.com/bangyen/leanfunge)**: executable Befunge semantics and machine-checked proofs in Lean 4 — my work on languages and formal verification alongside ML.
 
 #### Publications
 - **Generalized Collective Algorithms for the Exascale Era** — CLUSTER 2023
